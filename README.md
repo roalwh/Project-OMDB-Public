@@ -1,7 +1,9 @@
 # 팀명 : Just one more drink 
 
 # 프로젝트명 
-One More Drink Bar 
+술렁술렁
+
+전통주 정보공유 웹 플랫폼
 
 # 목표
 소주 맥주 말고도 더 맛있고 다양한 전통주에 대해 알아봅시다.

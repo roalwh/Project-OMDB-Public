@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-OmdbApplication<omdb>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "org.justdrink.omdb.OmdbApplication",
+      "projectName": "omdb",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "omdb-front",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://roalwh.iptime.org:20107",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "d3": "^7.8.5",
+    "date-fns": "^2.30.0",
+    "http-proxy-middleware": "^2.0.6",
+    "jquery": "^3.7.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-cookie": "^4.1.1",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-js-pagination": "^3.0.3",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "react-spinners": "^0.13.8",
+    "recharts": "^2.7.2",
+    "sass": "^1.64.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.0.6",
+    "swiper": "^10.1.0",
+    "topojson-client": "^3.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  }
+}

@@ -1,0 +1,80 @@
+# server:
+#     # port : 5000
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 100MB
+  profiles:
+      include: oauth
+  datasource:
+      # url: jdbc:mariadb://118.67.133.34:23306/drinkdb
+      url: jdbc:mariadb://roalwh.iptime.org:20104/drinkdb
+      driver-class-name: org.mariadb.jdbc.Driver
+      username: drinkroot
+      password: drink123root!@#
+    
+  jpa:
+    show-sql: true
+    defer-datasource-initialization: true # data.sql 사용을 위해서 필수적으로 등록
+    
+    generate-ddl: false   # true, false // false 가 기본임   // 영은 : false -> true 로 바꿈
+    hibernate:
+      ddl-auto: none   # 영은 : none 에서 create 로 바꿈
+
+    properties:
+      hibernate:
+        default_batch_fetch_size: 200
+        format_sql: true  # sql문 pretty하게 보여줌
+        use_sql_comments: true
+          
+    
+
+    # generate-ddl: true   # true, false // false 가 기본임 
+    # hibernate:
+    #     ddl-auto: create
+    #     # create(처음생성시,테스트), create-drop, update(db가 확정되었을 때,수정단계일때), validate, none(최종)
+    devtools:
+        livereload:
+            enabled: true
+
+  sql:
+    init:
+      mode: never
+      # always: embeded db가 아닌 외부 db 사용시 spring boot를 실행할때 마다 data.sql schema.sql import.sql을 항상 실행
+      # never: data.sql schema.sql import.sql을 실행하지 않음
+      encoding: utf-8
+          
+  security:
+    user: # spring security 기본 아이디와 암호
+      name: user
+      password: 1234
+    oauth2:
+      client:
+        registration:
+          google:
+            # client-id: 59576127208-sefe5j9bvgmhgqermmef88gjnmohlvs9.apps.googleusercontent.com
+            # client-secret: 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
+            client-id : 243523653271-2jcog7j082jdl1lagh6qevng1jgv0pqm.apps.googleusercontent.com
+            client-secret : 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
+            redirect-uri : http://roalwh.iptime.org:20107/login/oauth2/code/google
+            scope:
+                - email
+                - profile
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: whalepado100@gmail.com
+    password: aukrgybinqsheyyz
+    properties:
+      mail:
+        smtp:
+          socketFactory.class: javax.net.ssl.SSLSocketFactory
+          auth: true
+          starttls:
+            enable: true
+jwt:
+  #  issuer: westzerosilver@gmail.com
+  secret: 1234 # 매우 중요한 키
+

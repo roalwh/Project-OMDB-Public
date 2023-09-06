@@ -4,7 +4,8 @@
 
 ## 사이트가 살아있다면 아래에서 동작합니다
 http://roalwh.iptime.org:20108/
-#퍼블릭 게시용이므로 설정파일은 되도록 삭제되어있습니다.
+<br/>
+* 퍼블릭 게시용이므로 설정파일은 되도록 삭제되어있습니다.
 
 ## 목표
 소주 맥주 말고도 더 맛있고 다양한 전통주에 대해 알아봅시다.
@@ -17,9 +18,9 @@ http://roalwh.iptime.org:20108/
 | 이름       | 역할           | GitHub 프로필                               |
 |------------|----------------|---------------------------------------------|
 | 원영호     | 팀장, 서버관리자, 풀스택 | [roalwh](https://github.com/roalwh) |
-| 김세은     | 프론트엔드      | [senique-dev](https://github.com/anjxxyi](https://github.com/senique-dev) |
+| 김세은     | 프론트엔드      | [senique-dev](https://github.com/senique-dev) |
 | 문상혁     | 풀스택          | [m960626](https://github.com/m960626) |
-| 서영은     | 풀스택          | [YOUNGEUN100](https://github.com/hyungeongchoi2](https://github.com/YOUNGEUN100) |
+| 서영은     | 풀스택          | [YOUNGEUN100](https://github.com/YOUNGEUN100) |
 | 최진주     | 프론트엔드      | [pearl1233333](https://github.com/pearl1233333) |
 
 ## 🎞 시연 영상

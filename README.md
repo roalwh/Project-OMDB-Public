@@ -24,8 +24,8 @@ http://roalwh.iptime.org:20108/
 | 최진주     | 프론트엔드      | [pearl1233333](https://github.com/pearl1233333) |
 
 ## 🎞 시연 영상
-- 사용자 : 
-- 관리자 : 
+- 사용자 : https://www.youtube.com/watch?v=N9YjAZHWraE
+- 관리자 : https://www.youtube.com/watch?v=9p1A91r_M4w
 
 ## 🛠 활용 장비 및 재료
 <div style="display: flex; flex-direction: row;">

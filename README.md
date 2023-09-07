@@ -53,7 +53,7 @@ https://url.kr/6t7ejs
 ## ✌ DB설계
 <img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/cc4d2924-af5f-4bd4-8946-ab14051bf127" />
 
-## 기능설계
+## 👌 기능설계
 <h3>사용자 관리</h3>
 <ul>
 <li>JWT 기반 로그인</li>
@@ -92,7 +92,7 @@ https://url.kr/6t7ejs
 </ul>
 
 
-## 👌 API
+## 🤚 API
 관리자(admin)   API|   |  
 -- | -- | --
 기능 | Method | URL

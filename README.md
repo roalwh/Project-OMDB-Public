@@ -27,9 +27,6 @@ http://roalwh.iptime.org:20108/
 - 사용자 : https://www.youtube.com/watch?v=N9YjAZHWraE
 - 관리자 : https://www.youtube.com/watch?v=9p1A91r_M4w
 
-[![사용자](https://github.com/roalwh/Project-OMDB-Public/assets/121986519/166bd4fd-5d12-47a3-ae8f-90931954d488)](https://www.youtube.com/watch?v=N9YjAZHWraE)
-[![관리자](https://github.com/roalwh/Project-OMDB-Public/assets/121986519/94ab6a74-ed15-4d99-80b6-6211e46555e3)](https://www.youtube.com/watch?v=9p1A91r_M4w)
-
 ## 🛠 활용 장비 및 재료
 <div style="display: flex; flex-direction: row;">
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=html&logoColor=white"/>
@@ -51,7 +48,7 @@ http://roalwh.iptime.org:20108/
 - 8/27 ~ 9/1 서버 배포
 
 ## ☝ 화면설계
-https://url.kr/6t7ejs
+Figma https://url.kr/6t7ejs
 
 ## ✌ DB설계
 <img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/cc4d2924-af5f-4bd4-8946-ab14051bf127" />

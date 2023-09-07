@@ -47,4 +47,12 @@ http://roalwh.iptime.org:20108/
 - 8/7 ~ 8/27 서비스 구축, 테스트
 - 8/27 ~ 9/1 서버 배포
 
+## 화면설계
+https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EC%98%88%EC%B9%AD-%EC%88%A0%EB%A0%81%EC%88%A0%EB%A0%81)?type=design&node-id=0%3A1&mode=design&t=h08Zi7f2XGKk63hP-1
+
+## DB설계
+
+
+
+
 

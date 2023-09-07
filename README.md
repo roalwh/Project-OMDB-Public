@@ -47,13 +47,13 @@ http://roalwh.iptime.org:20108/
 - 8/7 ~ 8/27 서비스 구축, 테스트
 - 8/27 ~ 9/1 서버 배포
 
-## 화면설계
+## ☝ 화면설계
 https://url.kr/6t7ejs
 
-## DB설계
+## ✌ DB설계
 <img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/cc4d2924-af5f-4bd4-8946-ab14051bf127" />
 
-## API
+## 👌 API
 관리자(admin)   API|   |  
 -- | -- | --
 기능 | Method | URL

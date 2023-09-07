@@ -53,6 +53,80 @@ https://url.kr/6t7ejs
 ## DB설계
 <img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/cc4d2924-af5f-4bd4-8946-ab14051bf127" />
 
+## API
+관리자(admin)   API|   |  
+-- | -- | --
+기능 | Method | URL
+관리자 리스트 조회 | GET | /admin/adminlist
+사용자 리스트 조회 | GET | /admin/userlist
+userFlag 수정 | PUT | /admin/userset
+관리자 등록 | POST | /admin/signup
+처음 관리자 등록 | POST | /admin/signup/new
+
+게시글(board)   + 댓글(comment) API | |  
+-- | -- | --
+기능 | Method | URL
+게시글등록 + 파일등록   add | POST | /board/add
+게시글 파일 가져오기 | GET | /board/files/{board_id}
+게시글수정 update | PUT | /board/update/{board_id}
+게시글삭제 inactive   board | PUT | /board/inactive/{board_id}
+전체 게시글 보기 all   view | GET | /board/view/all
+게시판 종류별 글보기 이름   검색  kind title orderby | GET | /board/view?kind={kind_no}&orderby={정렬할   컬럼}
+게시글 상세보기 + 댓글   보기 | GET | /board/view/{board_id}
+댓글 조회 view | GET | /board/comment/no/{comment_id}
+댓글 수정 update | PUT | /board/comment/update/{comment_id}
+댓글 삭제 inactive | PUT | /board/comment/inactive/{comment_id}
+댓글 등록 add | POST | /board/comment/add
+
+주종별   전통주(drink) + 리뷰(review) API|   |    
+-- | -- | --
+기능 | Method | URL
+술검색 | GET | /cate/search?name={drink_name}
+술정보 | GET | /cate/info/{drink_id}
+술정보 리뷰조회 | GET | /cate/review/{drink_id}
+전체 술정보 | GET | /cate/all
+리뷰 이미지 호출 | GET | /rimg/4/52/review_10_52.png
+리뷰 등록 | POST | /cate/reviewin
+리뷰  수정 | PUT | /cate/reviewedit/{review_id}
+리뷰 삭제 | DEL | /admin/reviewdel/{review_id}
+
+전통주(drink)   + 리뷰(review) API|   |  
+-- | -- | --
+기능 | Method | URL
+술정보 검색 | GET | /dri/{drink_id}
+카테고리 or 이름 검색 | GET | /dri/search?name={drink_name}
+술 이미지 호출 | GET | /dimg/{drink_id}/drink_553.png
+술 좋아요 조회 | GET | /dlike/userList?uid={user_id}
+술정보 등록 | POST | /dri/drinkIn
+술정보 수정 | PUT | /dri/drinkedit/{drink_id}
+술 좋아요 등록 | POST | /dlike/add
+
+회원(member) API |   |  
+-- | -- | --
+기능 | Method | URL
+회원가입 | POST | /auth/signup
+로그인 | POT | /auth/login
+회원정보 가져오기 | GET | /member/me
+아이디 찾기 | POST | /auth/find-id
+비밀번호 찾기 전 계정   확인 | POST | /auth/find-pw
+비밀번호 변경 | PUT | /auth/change-pw/{user_id}
+회원정보 수정 | PUT | /member/change-info
+회원 탈퇴 | PUT | /auth/change-pw/{user_id}
+이메일 발송 | POST | /auth/email
+이메일 번호 확인 | GET | /auth/check-email/{number}
+
+마이페이지(myPage) API |   |  
+-- | -- | --
+기능 | Method | URL
+회원 게시글 가져오기 | GET | /member/board/{user_id}
+회원 댓글 가져오기 | GET | /member/comment/{user_id}
+회원 리뷰 가져오기 | GET | /member/review/{user_id}
+
+
+
+
+
+
 
 
 

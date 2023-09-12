@@ -40,6 +40,9 @@ http://roalwh.iptime.org:20108/
 <img src="https://img.shields.io/badge/JPA-3DDC84?style=flat-square&logo=JPA&logoColor=white"/>
 </div>
 
+<img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/d519589a-a3f5-40c8-87e3-296f8f80596e" />
+
+
 ## 📑 프로젝트 수행절차
 - 총 개발기간 8/1 ~ 9/1
 - 8/1 ~ 8/3 프로젝트 기획 및 주제선정

@@ -17,11 +17,11 @@ http://roalwh.iptime.org:20108/
 ## 👨‍👩‍👦‍👦 Collaborators : 팀원 소개
 | 이름       | 역할           | GitHub 프로필                               |Email                               |
 |------------|----------------|---------------------------------------------|---------------------------------------------|
-| 원영호     | 팀장, 서버관리자, 풀스택 | [roalwh](https://github.com/roalwh) |
-| 김세은     | 프론트엔드      | [senique-dev](https://github.com/senique-dev) |
-| 문상혁     | 풀스택          | [m960626](https://github.com/m960626) |
-| 서영은     | 풀스택          | [YOUNGEUN100](https://github.com/YOUNGEUN100) |
-| 최진주     | 프론트엔드      | [pearl1233333](https://github.com/pearl1233333) |
+| 원영호     | 팀장, 서버관리자, 풀스택 | [roalwh](https://github.com/roalwh) | nmnmnmlk6248@gmail.com, roalwh1@naver.com |
+| 김세은     | 프론트엔드      | [senique-dev](https://github.com/senique-dev) | minirose42@gmail.com |
+| 문상혁     | 풀스택          | [m960626](https://github.com/m960626) | m960626@naver.com |
+| 서영은     | 풀스택          | [YOUNGEUN100](https://github.com/YOUNGEUN100) | westzerosilver@gmail.com |
+| 최진주     | 프론트엔드      | [pearl1233333](https://github.com/pearl1233333) | ddch4747@naver.com |
 
 ## 🎞 시연 영상
 - 사용자 : https://www.youtube.com/watch?v=N9YjAZHWraE

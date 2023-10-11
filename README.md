@@ -135,17 +135,7 @@ Figma [https://url.kr/6t7ejs](https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/
 #### 2-2. DB 테이블
 
 <details>
-    <summary>게시글 관련</summary>   
-       
-  **1. 게시글 전체 목록**   
-  ![image](https://user-images.githubusercontent.com/59757689/156975336-c37c9866-bba2-4c69-9a3f-230339a80d5a.png)   
-  전체 목록을 페이징 처리하여 조회할 수 있다.   
-     
-  </details>
-  <br/>   
-
-<details>
-  <summary>더보기</summary> 
+  <summary>DB 테이블</summary> 
 
   ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/e7ae7e95-4790-4894-a28a-45f04aead679)
   ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/8343a6ba-a0fa-4616-b49c-b90407a0ee39)

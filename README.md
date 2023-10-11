@@ -2,7 +2,8 @@
 * 전통주 정보공유 웹 플랫폼
 * 팀명 : Just one more drink
 * 주소 : http://roalwh.iptime.org:20108/ (정상 배포 중)
-<img src = "https://github.com/roalwh/Project-OMDB/assets/83705507/9ac203d5-9dee-41fb-954a-bcef6eeac6dc"/>
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/1d779411-921f-476b-95ca-155dca37e758)
+
 <br/>
 * 퍼블릭 게시용이므로 설정파일은 되도록 삭제되어있습니다.
 

@@ -133,6 +133,9 @@ Figma [https://url.kr/6t7ejs](https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/
 <img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/cc4d2924-af5f-4bd4-8946-ab14051bf127" />
 
 #### 2-2. DB 테이블
+<details>
+  <summary>더보기</summary> 
+
 ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/e7ae7e95-4790-4894-a28a-45f04aead679)
 ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/8343a6ba-a0fa-4616-b49c-b90407a0ee39)
 ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/2868cde7-8413-4133-86bf-650dc41b24c3)
@@ -147,6 +150,7 @@ Figma [https://url.kr/6t7ejs](https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/
 ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/78402e3b-0381-4c27-a6c3-4be1013d9365)
 ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/5f95f4ed-2f2b-4cbb-aa74-67c16368f093)
 
+ </details>
 
 ### 3. 기능 설계
 

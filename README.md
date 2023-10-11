@@ -254,7 +254,12 @@ userFlag 수정 | PUT | /admin/userset
 회원 댓글 가져오기 | GET | /member/comment/{user_id}
 회원 리뷰 가져오기 | GET | /member/review/{user_id}
 
+## 개발 내용
 
+## 후기
+  ### 1.프로젝트 보완사항
+  
+  ### 2.후기
 
 
 

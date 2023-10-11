@@ -196,7 +196,7 @@ userFlag 수정 | PUT | /admin/userset
 술정보 | GET | /cate/info/{drink_id}
 술정보 리뷰조회 | GET | /cate/review/{drink_id}
 전체 술정보 | GET | /cate/all
-리뷰 이미지 호출 | GET | /rimg/4/52/review_10_52.png
+리뷰 이미지 호출 | GET | /rimg/{dirnk_id}/{rimg_id}/review_{dirnk_id}_{rimg_id}.png
 리뷰 등록 | POST | /cate/reviewin
 리뷰  수정 | PUT | /cate/reviewedit/{review_id}
 리뷰 삭제 | DEL | /admin/reviewdel/{review_id}
@@ -208,7 +208,7 @@ userFlag 수정 | PUT | /admin/userset
 -- | -- | --
 술정보 검색 | GET | /dri/{drink_id}
 카테고리 or 이름 검색 | GET | /dri/search?name={drink_name}
-술 이미지 호출 | GET | /dimg/{drink_id}/drink_553.png
+술 이미지 호출 | GET | /dimg/{drink_id}/drink_{dimg_id}.png
 술 좋아요 조회 | GET | /dlike/userList?uid={user_id}
 술정보 등록 | POST | /dri/drinkIn
 술정보 수정 | PUT | /dri/drinkedit/{drink_id}

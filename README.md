@@ -118,7 +118,7 @@
 
 ### 1. 화면 설계
 #### 1-1. 주요 화면 설계 이미지
-![image](https://github.com/roalwh/Project-OMDB/assets/83705507/fb18f669-e62d-4c4b-8c6f-01fb78af4eb7)
+<img src = "https://github.com/roalwh/Project-OMDB/assets/83705507/fb18f669-e62d-4c4b-8c6f-01fb78af4eb7"/>
 
 Figma [https://url.kr/6t7ejs](https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EC%98%88%EC%B9%AD-%EC%88%A0%EB%A0%81%EC%88%A0%EB%A0%81)?type=design&node-id=0%3A1&mode=design&t=zhi5r3z6lGj34GMZ-1)
 

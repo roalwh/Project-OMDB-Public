@@ -20,6 +20,10 @@
     - [프로젝트_화면](#5-1-메인화면)
     - [프로젝트_시연영상](#5-2--시연-영상)
 - [구조 및 설계](#구조-및-설계)
+  - [화면설계](#1-화면-설계)
+  - [DB설계](#2-db-설계)
+  - [기능 설계](#3-기능-설계)
+  - [API](#4-api)
 - [개발 내용]
 - [후기]
   - [프로젝트 보완사항]
@@ -129,6 +133,19 @@ Figma [https://url.kr/6t7ejs](https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/
 <img src="https://github.com/roalwh/Project-OMDB-Public/assets/121986519/cc4d2924-af5f-4bd4-8946-ab14051bf127" />
 
 #### 2-2. DB 테이블
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/e7ae7e95-4790-4894-a28a-45f04aead679)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/8343a6ba-a0fa-4616-b49c-b90407a0ee39)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/2868cde7-8413-4133-86bf-650dc41b24c3)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/bb5d4ce9-9dcb-4d60-b4aa-6af851328d64)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/554921b9-1751-47b3-9c61-908595656072)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/24d6dddc-0b1c-45d0-830d-534103d0bddb)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/ee6aeea1-8645-4460-b3b7-174f18153170)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/2c666cd1-791e-43ed-a646-426ceb437c44)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/5b727755-dc4d-4dec-b1bd-4314cea5529a)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/8d7f1225-2fea-468c-a9f2-4abec8615915)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/e3289a4a-1709-4ae8-8b41-009c63120ea3)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/78402e3b-0381-4c27-a6c3-4be1013d9365)
+![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/5f95f4ed-2f2b-4cbb-aa74-67c16368f093)
 
 
 ### 3. 기능 설계

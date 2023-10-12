@@ -210,7 +210,7 @@ userFlag 수정 | PUT | /admin/userset
 댓글 삭제 inactive | PUT | /board/comment/inactive/{comment_id}
 댓글 등록 add | POST | /board/comment/add
 
-#### 4-2, 전통주(drink) + 리뷰(review) API
+#### 4-2, 전통주 검색(cate) + 전통주 상세 리뷰(review) API
 
 기능 | Method | URL
 -- | -- | --
@@ -224,7 +224,7 @@ userFlag 수정 | PUT | /admin/userset
 리뷰 삭제 | DEL | /admin/reviewdel/{review_id}
 
 
-#### 4-3. 전통주(drink)   + 리뷰(review) API
+#### 4-3. 전통주(drink) 정보   + 리뷰(review) API
 
 기능 | Method | URL
 -- | -- | --

@@ -260,6 +260,10 @@ userFlag 수정 | PUT | /admin/userset
 회원 리뷰 가져오기 | GET | /member/review/{user_id}
 
 ## 개발 내용
+[술렁술렁 프로젝트 - 개인 백엔드 작업, 전통주 데이터 크롤링](https://roalwh.tistory.com/17)
+[술렁술렁 프로젝트 - 개인 백엔드 작업, 카테고리API](https://roalwh.tistory.com/14)
+[술렁술렁 프로젝트 - 개인 백엔드 작업, 이미지 호출 API](https://roalwh.tistory.com/16)
+[술렁술렁 프로젝트 - 개인 백엔드 작업, 전통주 정보 API](https://roalwh.tistory.com/15)
 
 ## 후기
   ### 1.프로젝트 보완사항

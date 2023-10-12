@@ -224,7 +224,7 @@ userFlag 수정 | PUT | /admin/userset
 리뷰 삭제 | DEL | /admin/reviewdel/{review_id}
 
 
-#### 4-3. 전통주(drink) 정보   + 리뷰(review) API
+#### 4-3. 전통주(drink) 정보
 
 기능 | Method | URL
 -- | -- | --

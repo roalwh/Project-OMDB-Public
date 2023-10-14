@@ -135,7 +135,7 @@ Figma [https://url.kr/6t7ejs](https://www.figma.com/file/xR6V0dH4JPPIpAuKUuzfHI/
 #### 2-2. DB 테이블
 
 <details>
-  <summary>DB 테이블</summary> 
+  <summary>DB 테이블 (클릭시 리스트) </summary> 
 
   ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/e7ae7e95-4790-4894-a28a-45f04aead679)
   ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/8343a6ba-a0fa-4616-b49c-b90407a0ee39)

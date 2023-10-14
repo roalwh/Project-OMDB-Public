@@ -34,6 +34,7 @@ public class DrinkController {
 
   @Autowired
   private DrinkService drinkService;
+
   @Autowired
   EntityManager em;
 
@@ -223,15 +224,6 @@ public class DrinkController {
       @RequestParam(value = "imgdyn", required = false) String imgdyn) {
     // null 값 처리를 위해 맛부분 은 Integer 로 처리
 
-    System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-    System.out.println("관리자 아이디 : "+orderuid);
-    System.out.println("술 이름 : "+name);
-    System.out.println("상호명 : "+maker);
-    System.out.println("설명 : "+info);
-    System.out.println("지역 : "+region);
-    System.out.println("주소 : "+address);
-    System.out.println("주종 : "+category);
-    System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
     // 요청자 권한 확인
     boolean drinkusercheck = drinkService.finduser(orderuid);
     if (!drinkusercheck) {

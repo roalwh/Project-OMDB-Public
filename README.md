@@ -214,13 +214,13 @@ userFlag 수정 | PUT | /admin/userset
 
 기능 | Method | URL
 -- | -- | --
-술검색 | GET | /cate/search?name={drink_name}
-술정보 | GET | /cate/info/{drink_id}
-술정보 리뷰조회 | GET | /cate/review/{drink_id}
-전체 술정보 | GET | /cate/all
+전통주 검색 | GET | /cate/search?name={drink_name}
+전통주 정보 | GET | /cate/info/{drink_id}
+전통주 정보 리뷰조회 | GET | /cate/review/{drink_id}
+전체 전통주 정보 | GET | /cate/all
 리뷰 이미지 호출 | GET | /rimg/{dirnk_id}/{rimg_id}/review_{dirnk_id}_{rimg_id}.png
 리뷰 등록 | POST | /cate/reviewin
-리뷰  수정 | PUT | /cate/reviewedit/{review_id}
+리뷰 수정 | PUT | /cate/reviewedit/{review_id}
 리뷰 삭제 | DEL | /admin/reviewdel/{review_id}
 
 
@@ -228,13 +228,13 @@ userFlag 수정 | PUT | /admin/userset
 
 기능 | Method | URL
 -- | -- | --
-술정보 검색 | GET | /dri/{drink_id}
+전통주 정보 검색 | GET | /dri/{drink_id}
 카테고리 or 이름 검색 | GET | /dri/search?name={drink_name}
-술 이미지 호출 | GET | /dimg/{drink_id}/drink_{dimg_id}.png
-술 좋아요 조회 | GET | /dlike/userList?uid={user_id}
+전통주 이미지 호출 | GET | /dimg/{drink_id}/drink_{dimg_id}.png
+전통주 좋아요 조회 | GET | /dlike/userList?uid={user_id}
 술정보 등록 | POST | /dri/drinkIn
 술정보 수정 | PUT | /dri/drinkedit/{drink_id}
-술 좋아요 등록 | POST | /dlike/add
+전통주 좋아요 등록 | POST | /dlike/add
 
 #### 4-4. 회원(member) API
 
@@ -264,6 +264,7 @@ userFlag 수정 | PUT | /admin/userset
 [술렁술렁 프로젝트 - 개인 백엔드 작업, 카테고리API](https://roalwh.tistory.com/14)
 [술렁술렁 프로젝트 - 개인 백엔드 작업, 이미지 호출 API](https://roalwh.tistory.com/16)
 [술렁술렁 프로젝트 - 개인 백엔드 작업, 전통주 정보 API](https://roalwh.tistory.com/15)
+[술렁술렁 프로젝트 - DB 구축, 벡엔드 배포, 프론트 배포](https://roalwh.tistory.com/18)
 
 ## 후기
   ### 1.프로젝트 보완사항

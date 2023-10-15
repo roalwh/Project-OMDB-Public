@@ -278,7 +278,7 @@ userFlag 수정 | PUT | /admin/userset
    - 공유기 사용으로 인한 https 미적용 -> 개인서버 os재설치가 필요한 부분이라 진행 못함
   
   ### 2.후기
-  - [원영호](https://roalwh.tistory.com/19)
+  - [팀프로젝트 개인 후기 - 원영호](https://roalwh.tistory.com/19)
     
  
   

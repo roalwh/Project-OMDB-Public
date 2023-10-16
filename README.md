@@ -265,7 +265,7 @@ userFlag 수정 | PUT | /admin/userset
  - [술렁술렁 프로젝트 - DB 구축, 벡엔드 배포, 프론트 배포](https://roalwh.tistory.com/18)
 
 ## 후기
-  ### 1.프로젝트 보완사항
+### 1.프로젝트 보완사항
    - 중복된 API 정리 필요
    - 테스트로 작성한 불필요 print문 제거
    - 파일 업로드 좀더 나은 방법이 있는지 찾아보기
@@ -274,9 +274,10 @@ userFlag 수정 | PUT | /admin/userset
    - 비밀번호 변경 시 기존 비밀번호 재사용 불가 처리
    - yml, env 파일 등을 암호화나 spring cloud 를 이용한 암호화 처리
    - 공유기 사용으로 인한 https 미적용 -> 개인서버 os재설치가 필요한 부분이라 진행 못함
+
   
-  ### 2.후기
-  - [팀프로젝트 개인 후기 - 원영호](https://roalwh.tistory.com/19)
+### 2.후기
+ - [팀프로젝트 개인 후기 - 원영호](https://roalwh.tistory.com/19)
     
  
   

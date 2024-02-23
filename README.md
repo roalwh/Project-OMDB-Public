@@ -45,7 +45,7 @@
 | 김세은     | 프론트엔드      | [senique-dev](https://github.com/senique-dev) | minirose42@gmail.com |
 | 문상혁     | 풀스택          | [m960626](https://github.com/m960626) | m960626@naver.com |
 | 서영은     | 풀스택          | [YOUNGEUN100](https://github.com/YOUNGEUN100) | westzerosilver@gmail.com |
-| 최진주     | 프론트엔드      | [pearl1233333](https://github.com/pearl1233333) | ddch4747@naver.com |
+| 최진주     | 프론트엔드      | [pearlworld](https://github.com/pearlworld) | ddch4747@naver.com |
 
 
 ### 3. 📑 프로젝트 수행기간

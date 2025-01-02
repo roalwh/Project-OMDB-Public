@@ -1,7 +1,7 @@
 # 🍶 술렁술렁
 * 전통주 정보공유 웹 플랫폼
 * 팀명 : Just one more drink
-* 주소 : http://roalwh.iptime.org:20108/ (정상 배포 중)
+* 주소 : http://roalwh.iptime.org:20108/ (종료)
 ![image](https://github.com/roalwh/Project-OMDB-Public/assets/83705507/1d779411-921f-476b-95ca-155dca37e758)
 
 <br/>
